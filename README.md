@@ -9,6 +9,11 @@
 [![Performance](https://img.shields.io/badge/throughput-100k%20req%2Fs-orange)](#-benchmarks)
 [![Stars](https://img.shields.io/github/stars/Brah-Timo/gofastapi?style=social)](https://github.com/Brah-Timo/gofastapi/stargazers)
 
+
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/07760d82-8ffb-4613-bda0-14baad04a4c3" />
+
+
 ---
 
 ## The Problem
